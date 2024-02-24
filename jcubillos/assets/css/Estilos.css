@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+body{
+    background-color: #9300FF ;
+    background-image: url("../img/Fondochimba.jpg");
+    background-repeat: repeat;
+}
+
+h1 {
+    background-color: rgb(0, 255, 236);
+    font-family: "Rubik", sans-serif;
+    font-weight: 800;
+    text-align: center;
+}   
+
+p{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    text-align: justify;
+}
